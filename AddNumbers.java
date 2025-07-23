@@ -7,7 +7,6 @@ public class AddNumbers {
         int product = a * b;
 
         System.out.println("Sum: " + sum);
-        System.out.println("Product: " + product);
         System.out.println("Hey shradhaaaaaaaa!!!!!!!");
     }
 }
